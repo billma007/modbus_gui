@@ -40,7 +40,7 @@ pip install pyserial
 运行方式：
 
 ```bash
-python modbus_tk_gui.py
+python main.py
 ```
 
 程序将打开一个 Tkinter 窗口，用于执行上述所有实验操作。
